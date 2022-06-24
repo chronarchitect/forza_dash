@@ -1,0 +1,6 @@
+*.ipynb
+__pycache__
+Scripts/
+share/
+Lib/
+pyenv.cfg
